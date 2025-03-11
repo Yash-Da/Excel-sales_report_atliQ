@@ -38,7 +38,4 @@ This project analyzes *Atliq Hardware’s sales data* using *Excel, providing in
 - Download the *PDF files* from this repository to view the analysis.  
 - Open the *Excel file* (if provided) to explore the raw data and Pivot Table calculations.  
 
----
 
-## 📧 Contact Me
-If you have any questions or feedback, feel free to reach out!
